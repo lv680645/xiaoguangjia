@@ -1,0 +1,20 @@
+export default {
+  home: '首页',
+  login: '登录',
+  components: '组件',
+  count_to_page: '数字渐变',
+  tables_page: '多功能表格',
+  split_pane_page: '分割窗口',
+  markdown_page: 'Markdown编辑器',
+  editor_page: '富文本编辑器',
+  icons_page: '自定义图标',
+  img_cropper_page: '图片编辑器',
+  update: '上传数据',
+  join_page: '学员管理',
+  administration: '课程管理',
+  grade: '班级管理',
+  teacher: '老师管理',
+  system: '系统管理',
+  system_timing: '账号管理',
+  system_journal: '日志管理'
+}
